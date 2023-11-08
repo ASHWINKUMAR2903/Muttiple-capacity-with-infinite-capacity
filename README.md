@@ -74,7 +74,16 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Output :
 ![image](https://github.com/ASHWINKUMAR2903/Muttiple-capacity-with-infinite-capacity/assets/119407186/e8b4e272-bc5a-42fd-b6c3-a0f636f0fa86)
 
